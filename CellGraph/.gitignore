@@ -1,6 +1,1 @@
-*.class
-*.ctxt
-package.bluej
-*.dll
-*.log
-*.jar
+/bin/
